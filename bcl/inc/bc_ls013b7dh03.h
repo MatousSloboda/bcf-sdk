@@ -62,7 +62,7 @@ void bc_ls013b7dh03_draw_pixel(bc_ls013b7dh03_t *self, int x, int y, uint32_t co
 //! @param[in] self Instance
 //! @param[in] left Pixels from left edge
 //! @param[in] top Pixels from top edge
-//! @return color Pixels state
+//! @return color Pixel state
 
 uint32_t bc_ls013b7dh03_get_pixel(bc_ls013b7dh03_t *self, int x, int y);
 
